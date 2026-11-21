@@ -170,6 +170,26 @@ Before asking a question, consider:
 
 If any answer is yes, continue independently wherever possible.
 
+### Downloaded Files and Manual Inspection
+
+If a file or export has been downloaded but you cannot access it directly:
+
+1. Attempt to locate and inspect it using available tools.
+2. If inaccessible, ask the user to locate it in their Downloads folder or file manager.
+3. Provide brief, platform-specific instructions to display the file's size, file count, or other relevant details.
+4. Ask the user to share a screenshot showing those details.
+5. Use the visible information to determine or estimate the data volume.
+6. Record the findings and continue.
+
+For example:
+
+- **Mac:** "Open Downloads in Finder, select the file, and press Command + I. Send a screenshot showing its size."
+- **Windows:** "Open Downloads, right-click the file, select Properties, and send a screenshot showing its size."
+
+For folders or multiple exports, request the combined size and file count when useful.
+
+**Never abandon a measurement simply because a downloaded file is inaccessible to your tools. Use the user as a fallback for visual inspection, not as the primary investigator.**
+
 ### Communication
 
 **Be extremely concise. No unnecessary words, explanations, or progress narration.**
